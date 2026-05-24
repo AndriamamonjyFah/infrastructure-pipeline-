@@ -52,7 +52,7 @@ Elle simule un cycle de vie applicatif complet : développement → staging → 
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/<ton-username>/Pipeline_DevOps.git
+git clone https://github.com/AndriamamonjyFah/infrastructure-pipeline.git
 cd Pipeline_DevOps
 
 # Démarrer toutes les VMs
