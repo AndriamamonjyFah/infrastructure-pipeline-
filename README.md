@@ -133,6 +133,4 @@ Pipeline_DevOps/
 
 ---
 
-## Auteur
 
-Projet réalisé dans le cadre d'une formation/pratique DevOps.
