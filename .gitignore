@@ -1,0 +1,16 @@
+# Vagrant
+.vagrant/
+
+# Logs
+*.log
+
+# Certificats et clés générés automatiquement
+*.key
+*.crt
+certs/
+passwd/
+data/
+
+# OS
+.DS_Store
+Thumbs.db
